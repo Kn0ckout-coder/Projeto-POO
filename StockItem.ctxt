@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StockItem
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ d\ here.\r\n\r\n\ @author\ Rodrigo\ Carneiro\ |\ Marco\ Carregal\r\n\ @version\ 1\r\n
+comment1.params=item\ quantity
+comment1.target=StockItem(Item,\ int)
+comment2.params=
+comment2.target=Item\ getItem()
+comment3.params=
+comment3.target=int\ getQuantity()
+comment4.params=item
+comment4.target=void\ setItem(Item)
+comment5.params=quantity
+comment5.target=void\ setQuantity(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
